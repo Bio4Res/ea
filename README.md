@@ -30,5 +30,6 @@ The library has been used in the following projects (non-exhaustive list):
 
 * [aircraft-landing-scheduling](https://github.com/Bio4Res/aircraft-landing-scheduling): Solving the Aircraft Landing Scheduling with metaheuristics
 * [ea-model-byzantine](https://github.com/Bio4Res/ea-model-byzantine): Evolutionary algorithms with Byzantine failures in fitness evaluation
+* [ea-test-energy](https://github.com/Bio4Res/ea-test-energy)
 * [pedestrian-evacuation-optimization](https://github.com/Bio4Res/pedestrian-evacuation-optimization): Optimization of crowd evacuation in case of emergency
 
